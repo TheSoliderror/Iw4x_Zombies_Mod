@@ -1,5 +1,7 @@
 # Iw4x_Zombies_Mod
 This is a port of DeVient Games Zombies mod for Iw4x. 
+# Needs Iw4x client files
+https://xlabs.dev/iw4x_download
 
 # Installing
 Copy all files to the iw4x game folder
